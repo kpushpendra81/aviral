@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isset"
+			],
+			[
+				"forw",
+				"forwarded_port"
+			],
+			[
+				"priva",
+				"private_network"
+			],
+			[
+				"fir",
+				"firstTD"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"et",
+				"etype"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"m",
+				"maxlength\tAttr"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fo",
+				"forward"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"de",
+				"default"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kpushpendra81/Documents/Projects/school/dashboard/urls.py",
+		"/Users/kpushpendra81/Documents/Projects/school/dashboard/views.py",
+		"/Users/kpushpendra81/Documents/Projects/school/template/sideMenu.html",
+		"/Users/kpushpendra81/Documents/Projects/school/dashboard/template/dashboard.html",
+		"/Users/kpushpendra81/Documents/Projects/school/school/urls.py",
+		"/Users/kpushpendra81/Documents/Projects/school/dashboard/template/base.html",
+		"/Users/kpushpendra81/Documents/Projects/school/template/footer.html",
+		"/Users/kpushpendra81/Documents/Projects/school/template/header.html",
+		"/Users/kpushpendra81/Documents/Projects/school/template/template.html",
+		"/Users/kpushpendra81/Documents/Projects/school/template/base.html",
+		"/Users/kpushpendra81/Documents/Projects/school/login/template/home.html",
+		"/Users/kpushpendra81/Documents/Projects/school/school/settings.py",
+		"/Users/kpushpendra81/Documents/vagrentProject/project_dir/Vagrantfile",
+		"/Users/kpushpendra81/Documents/vagrentProject/testVagrant/Vagrantfile",
+		"/Users/kpushpendra81/Documents/vagrentProject/school/Vagrantfile",
+		"/Applications/XAMPP/xamppfiles/htdocs/oops/oops4.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/oops/oops3.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/learnphp/index.php",
+		"/Users/kpushpendra81/Documents/Projects/nodeProjects/testNode/test.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/star.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/oops/oops2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/oops/oops1.php",
+		"/Users/kpushpendra81/Desktop/events.py",
+		"/Users/kpushpendra81/Documents/event.py",
+		"/Applications/XAMPP/xamppfiles/htdocs/fusionIndia/admin/addAdmin.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/fusionIndia/admin/adminList.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/learnphp/process.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/fusionIndia/includes/class.upload.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/fusionIndia/admin/includes/leftpanel.inc.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/fusionIndia/admin/includes/function.inc.php",
+		"/Users/kpushpendra81/Desktop/test.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/fcindia/includes/class.upload.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/fusionIndia/admin/includes/connection.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/fusionIndia/includes/connection.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/pagination.php",
+		"/Users/kpushpendra81/Desktop/ref2.casper.js",
+		"/Users/kpushpendra81/Desktop/ref1.casper.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/fake/ref.php",
+		"/Users/kpushpendra81/Documents/corePython/triangle.py",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/jq1.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/jq2.html",
+		"/Users/kpushpendra81/Documents/corePython/testTurtle.py",
+		"/Users/kpushpendra81/Downloads/name.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/js3.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/js2.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/publisherWall/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/js1.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/Contacts.app",
+		"/Applications/XAMPP/xamppfiles/htdocs/publisherWall/blog.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/ITI/application/views/footerJs/feeJs.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ITI/application/config/config.php",
+		"/Users/kpushpendra81/Documents/school/login/models.py",
+		"/Users/kpushpendra81/Downloads/SLApi-dev/sellerProfile/views.py",
+		"/Users/kpushpendra81/Downloads/Admin-dev/login/models.py",
+		"/Users/kpushpendra81/Documents/school/school/settings.py",
+		"/Users/kpushpendra81/Documents/school/assets/build/css/custom.css",
+		"/Users/kpushpendra81/Documents/school/assets/build/css/animate.min.css",
+		"/Users/kpushpendra81/Documents/school/assets/build/js/custom.js",
+		"/Users/kpushpendra81/Documents/school/assets/build/css/custom.min.css",
+		"/Users/kpushpendra81/Documents/school/assets/src/scss/custom.scss",
+		"/Users/kpushpendra81/Documents/school/assets/src/js/custom.js",
+		"/Users/kpushpendra81/Downloads/Admin-dev/billing/models.py",
+		"/Applications/XAMPP/xamppfiles/htdocs/publisherWall/search.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/publisherWall/all.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/publisherWall/index.php",
+		"/Users/kpushpendra81/Downloads/Admin-dev/login/views.py",
+		"/Users/kpushpendra81/Documents/school/login/views.py",
+		"/Users/kpushpendra81/Documents/school/assets/login/home.html",
+		"/Users/kpushpendra81/Documents/school/login/urls.py",
+		"/Users/kpushpendra81/Downloads/SellerApp-dev/sellerProfile/templates/sellerProfile/companyDetail.html",
+		"/Users/kpushpendra81/Downloads/SellerApp-dev/sellerProfile/templates/sellerProfile/newBankDetail.html",
+		"/Users/kpushpendra81/Downloads/SellerApp-dev/sellerProfile/templates/sellerProfile/documentDetail.html",
+		"/Users/kpushpendra81/Downloads/SellerApp-dev/sellerProfile/templates/sellerProfile/contactDetail.html",
+		"/Users/kpushpendra81/Downloads/SellerApp-dev/authentication/forms.py",
+		"/Users/kpushpendra81/Downloads/SellerApp-dev/authentication/templates/authentication/login.html",
+		"/Users/kpushpendra81/Documents/project/school/login/views.py",
+		"/Users/kpushpendra81/Documents/project/school/login/templates/login.html",
+		"/Users/kpushpendra81/Downloads/SellerApp-dev/sellerProfile/views.py",
+		"/Users/kpushpendra81/Downloads/Admin-dev/authentication/views.py",
+		"/Users/kpushpendra81/Downloads/SellerApp-dev/templates/basic_site.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dt1",
+			"\";\n",
+			"name",
+			"keyup",
+			"orm-field-select-2",
+			"Others_Fee",
+			"hiddenanchor",
+			"User"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

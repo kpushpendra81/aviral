@@ -45,20 +45,20 @@ $autoload['packages'] = array();
 | -------------------------------------------------------------------
 |  Auto-load Libraries
 | -------------------------------------------------------------------
-| These are the classes located in system/libraries/ or your
-| application/libraries/ directory, with the addition of the
-| 'database' library, which is somewhat of a special case.
+| These are the classes located in system/libraries/ or your<
+| application/libraries/ directory, with the addition of the<
+| 'database' library, which is somewhat of a special case.<
 |
-| Prototype:
+| Prototype:<
 |
-|	$autoload['libraries'] = array('database', 'email', 'session');
+|	$autoload['libraries'] = array('database', 'email', 'session');<
 |
-| You can also supply an alternative library name to be assigned
-| in the controller:
+| You can also supply an alternative library name to be assigned<
+| in the controller:<
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
-$autoload['libraries'] = array();
+$autoload['libraries'] = array('database','session');
 
 /*
 | -------------------------------------------------------------------
@@ -89,7 +89,7 @@ $autoload['drivers'] = array();
 |
 |	$autoload['helper'] = array('url', 'file');
 */
-$autoload['helper'] = array();
+$autoload['helper'] = array('url');
 
 /*
 | -------------------------------------------------------------------
